@@ -40,11 +40,11 @@
 13. what is RESTful API
     - RESTful API is an API that follows REST (Representational State Transfer) principles to enable communication between client and server using HTTP methods. (post,get,put,delete)
 
-14. what is Express.js
-    - Express.js is a fast and lightweight web framework for Node.js used to build web applications and APIs.
-
-15. what is Node.js
+14. what is Node.js
     - Node.js is a JavaScript runtime environment that allows JavaScript to run outside the browser.
+
+15. what is Express.js
+    - Express.js is a fast and lightweight web framework for Node.js used to build web applications and APIs.
 
 16. what is package.json
     - package.json is a configuration file in a Node.js project that contains project information and dependency details.
