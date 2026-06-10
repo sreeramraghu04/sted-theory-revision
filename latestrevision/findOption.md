@@ -43,7 +43,7 @@
     - `setTimeout()`
 
 15. what does react use to improve performance during update
-    - virtula DOM
+    - virtual DOM
 
 16. which property is used to represent the transparency of an element in css
     - opacity
